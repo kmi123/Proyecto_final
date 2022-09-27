@@ -1,0 +1,11 @@
+Model Information:
+* title:	Galleda brossa
+* source:	https://sketchfab.com/3d-models/galleda-brossa-e10b970f11e64a9ebef40cb15cb7326a
+* author:	dimoni (https://sketchfab.com/dimoni)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Galleda brossa" (https://sketchfab.com/3d-models/galleda-brossa-e10b970f11e64a9ebef40cb15cb7326a) by dimoni (https://sketchfab.com/dimoni) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
